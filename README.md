@@ -5,12 +5,12 @@
 make
 ```
 
-### server服务端
+### 1、server服务端
 ```
 ./server
 ```
 
-### client客户端
+### 2、client客户端
 ```
 Usage:
   client [-t <type>]
